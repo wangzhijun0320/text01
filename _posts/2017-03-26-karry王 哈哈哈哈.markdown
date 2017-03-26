@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "你的孤独  虽败犹荣!"
+date:   2017-03-26 21:48:58 +0800
+categories: jekyll update
+---
+    生活就像一盒各式各样的巧克力   你永远不知道你会得到什么
