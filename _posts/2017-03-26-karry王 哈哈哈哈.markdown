@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "你的孤独  虽败犹荣!"
+title:  "孤独  虽败犹荣  "
 date:   2017-03-26 21:48:58 +0800
 categories: jekyll update
 ---
